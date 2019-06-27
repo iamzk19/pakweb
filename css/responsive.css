@@ -112,6 +112,9 @@
     #footer-copyrights {
         text-align: center;
     }
+    .pakweb-nav-wrapper {
+    padding: 0;
+}
 }
 
 @media (max-width: 320px) {
@@ -128,7 +131,9 @@
     #about-content-box {
         margin-top: 40px;
     }
-
+.pakweb-nav-wrapper {
+    padding: 0;
+}
     .testimonial img {
         max-width: 80px;
     }
